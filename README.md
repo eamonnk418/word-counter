@@ -1,0 +1,4 @@
+# Word Counter
+
+## Usage
+
